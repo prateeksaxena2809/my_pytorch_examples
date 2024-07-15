@@ -1,7 +1,7 @@
 
 # Updates
-## Jul 13,2024 - Added all easy examples for deep-ml.com.
-
+## Jul 14,2024 - Added all easy examples for deep-ml.com.
+## Jul 15,2024 - Added two medium examples for deep-ml.com
 
 # Resources
 ## deep-ml.com
